@@ -5,8 +5,6 @@ import pandas as pd
 import csv
 
 
-
-import time
 class FileAnalysis:
     def __init__(self):
         self.TLine=0 # 总代码行
